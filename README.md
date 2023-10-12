@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on [Partner Servers](https://discord.gg/primegraphic)
 
-- 🤝 I’m looking for help with [My Portfolio](https://stixcim.net)
-
 - 👨‍💻 All of my projects are available at [https://stixcim.net](https://stixcim.net)
 
 - 💬 Ask me about **stixcim.net**
